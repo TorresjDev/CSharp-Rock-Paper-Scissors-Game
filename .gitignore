@@ -1,0 +1,6 @@
+# Ignore Visual Studio Code settings folder
+.vscode/
+
+# Ignore build output folders
+bin/
+obj/

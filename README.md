@@ -1,7 +1,6 @@
 # Rock, Paper, Scissors Game 🎮✂️📄
 
-Welcome to the **Rock, Paper, Scissors Game** project! This is a simple yet entertaining console-based game written in **C#** using the latest version of the .NET framework. The project demonstrates fundamental programming concepts like classes, loops, and user interaction, all wrapped up in a classic game that everyone knows and loves. 🎉
-
+Welcome to the **Rock, Paper, Scissors Game** project! This is a simple console-based game written in **C#** using the latest .NET framework. 🎉
 ## 🎯 About the Project
 This project brings the timeless game of Rock, Paper, Scissors to life in a digital format. The player competes against a computer opponent to see who can emerge victorious. The game tracks points, determines winners for each round, and even includes a quirky "lava rocks!" move from the computer for some unexpected fun. 🔥
 
@@ -12,7 +11,7 @@ This project brings the timeless game of Rock, Paper, Scissors to life in a digi
 ## 📜 Instructions to Play
 1. **Download or Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/RockPaperScissors.git
+   git clone https://github.com/TorresjDev/CSharp-Rock-Paper-Scissors-Game
    ```
 2. **Open the Project**:
    - Open the `.sln` file in Visual Studio.
@@ -73,6 +72,6 @@ Feel free to fork this repository and make it your own! Contributions are welcom
 
 ## 📧 Contact
 For any questions, feel free to reach out:
-- GitHub: [Your GitHub Username](https://github.com/yourusername)
+- GitHub: [TorresjDev](https://github.com/TorresjDev)
 
 Enjoy the game and may the best player win! 🏆
